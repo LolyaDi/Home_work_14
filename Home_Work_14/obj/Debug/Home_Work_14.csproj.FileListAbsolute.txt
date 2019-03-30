@@ -1,0 +1,6 @@
+C:\Users\Асанали\source\repos\Home_Work_14\Home_Work_14\bin\Debug\Home_Work_14.exe
+C:\Users\Асанали\source\repos\Home_Work_14\Home_Work_14\bin\Debug\Home_Work_14.pdb
+C:\Users\Асанали\source\repos\Home_Work_14\Home_Work_14\obj\Debug\Home_Work_14.csprojAssemblyReference.cache
+C:\Users\Асанали\source\repos\Home_Work_14\Home_Work_14\obj\Debug\Home_Work_14.csproj.CoreCompileInputs.cache
+C:\Users\Асанали\source\repos\Home_Work_14\Home_Work_14\obj\Debug\Home_Work_14.exe
+C:\Users\Асанали\source\repos\Home_Work_14\Home_Work_14\obj\Debug\Home_Work_14.pdb
